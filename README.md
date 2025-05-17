@@ -1,1 +1,1 @@
-# langchain_email_generator
+Email generator using langchain
